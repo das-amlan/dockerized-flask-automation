@@ -1,0 +1,2 @@
+## This project shows how to work with github action
+This project provides a comprehensive guide on utilizing GitHub Actions to automate workflows, including building, testing, and deploying applications, with a focus on integrating CI/CD pipelines.
